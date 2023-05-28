@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"code-runner.clearPreviousOutput": true,
+		"files.associations": {
+			"*.pdf": "markdown",
+			"iostream": "cpp",
+			"string": "cpp",
+			"string_view": "cpp",
+			"iosfwd": "cpp",
+			"ratio": "cpp"
+		},
+	}
+}
